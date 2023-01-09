@@ -1,0 +1,17 @@
+C:\Users\luca_\source\repos\Semester-6\RabbitMQProductAPI\RabbitMQProduct.ConsoleApplication\bin\Debug\net6.0\RabbitMQProduct.ConsoleApplication.exe
+C:\Users\luca_\source\repos\Semester-6\RabbitMQProductAPI\RabbitMQProduct.ConsoleApplication\bin\Debug\net6.0\RabbitMQProduct.ConsoleApplication.deps.json
+C:\Users\luca_\source\repos\Semester-6\RabbitMQProductAPI\RabbitMQProduct.ConsoleApplication\bin\Debug\net6.0\RabbitMQProduct.ConsoleApplication.runtimeconfig.json
+C:\Users\luca_\source\repos\Semester-6\RabbitMQProductAPI\RabbitMQProduct.ConsoleApplication\bin\Debug\net6.0\RabbitMQProduct.ConsoleApplication.dll
+C:\Users\luca_\source\repos\Semester-6\RabbitMQProductAPI\RabbitMQProduct.ConsoleApplication\bin\Debug\net6.0\RabbitMQProduct.ConsoleApplication.pdb
+C:\Users\luca_\source\repos\Semester-6\RabbitMQProductAPI\RabbitMQProduct.ConsoleApplication\bin\Debug\net6.0\RabbitMQ.Client.dll
+C:\Users\luca_\source\repos\Semester-6\RabbitMQProductAPI\RabbitMQProduct.ConsoleApplication\obj\Debug\net6.0\RabbitMQProduct.ConsoleApplication.csproj.AssemblyReference.cache
+C:\Users\luca_\source\repos\Semester-6\RabbitMQProductAPI\RabbitMQProduct.ConsoleApplication\obj\Debug\net6.0\RabbitMQProduct.ConsoleApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luca_\source\repos\Semester-6\RabbitMQProductAPI\RabbitMQProduct.ConsoleApplication\obj\Debug\net6.0\RabbitMQProduct.ConsoleApplication.AssemblyInfoInputs.cache
+C:\Users\luca_\source\repos\Semester-6\RabbitMQProductAPI\RabbitMQProduct.ConsoleApplication\obj\Debug\net6.0\RabbitMQProduct.ConsoleApplication.AssemblyInfo.cs
+C:\Users\luca_\source\repos\Semester-6\RabbitMQProductAPI\RabbitMQProduct.ConsoleApplication\obj\Debug\net6.0\RabbitMQProduct.ConsoleApplication.csproj.CoreCompileInputs.cache
+C:\Users\luca_\source\repos\Semester-6\RabbitMQProductAPI\RabbitMQProduct.ConsoleApplication\obj\Debug\net6.0\RabbitMQProduct.ConsoleApplication.csproj.CopyComplete
+C:\Users\luca_\source\repos\Semester-6\RabbitMQProductAPI\RabbitMQProduct.ConsoleApplication\obj\Debug\net6.0\RabbitMQProduct.ConsoleApplication.dll
+C:\Users\luca_\source\repos\Semester-6\RabbitMQProductAPI\RabbitMQProduct.ConsoleApplication\obj\Debug\net6.0\refint\RabbitMQProduct.ConsoleApplication.dll
+C:\Users\luca_\source\repos\Semester-6\RabbitMQProductAPI\RabbitMQProduct.ConsoleApplication\obj\Debug\net6.0\RabbitMQProduct.ConsoleApplication.pdb
+C:\Users\luca_\source\repos\Semester-6\RabbitMQProductAPI\RabbitMQProduct.ConsoleApplication\obj\Debug\net6.0\RabbitMQProduct.ConsoleApplication.genruntimeconfig.cache
+C:\Users\luca_\source\repos\Semester-6\RabbitMQProductAPI\RabbitMQProduct.ConsoleApplication\obj\Debug\net6.0\ref\RabbitMQProduct.ConsoleApplication.dll
